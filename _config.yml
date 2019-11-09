@@ -28,6 +28,7 @@ url: "https://ivan.cx" # the base hostname & protocol for your site, e.g. http:/
 
 github_username: ivan-cx
 linkedin_username: ivan-cx
+twitter_username: ivn_cx
 
 # Build settings
 theme: minima

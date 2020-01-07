@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 ### I'm Ivan Kuznetsov
-This is my homepage. I am a programmer who specializes in data intensive areas (game development, bioinformatics and others). 
+This is my homepage. I am a programmer. I try hard to do better job.
 
-### I'm looking for a new project
-Contact me [via email](mailto:i@ivn.cx) if you are building something useful for people / science / our planet and need some help. 
+### I'm open to collaboration on important projects
+Contact me [via email](mailto:i@ivn.cx) if you are building something important for people / science / our planet and need some help. 
 

@@ -1,2 +1,2 @@
-# Visit my blog:
-https://ivan.cx
+# Visit my silte
+<https://ivan.cx>

@@ -1,0 +1,46 @@
+body {
+    margin: auto;
+    padding-right: 1em;
+    padding-left: 1em;
+    max-width: 50em; 
+    color: black;
+    font-family: Verdana, sans-serif;
+    font-size: 140%;
+    color: #333; 
+}
+
+code {
+    font-family: monospace;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a { 
+    text-decoration: none;
+    color: #1a2a3a; 
+}
+
+h1, h2, h3 { font-family: verdana;
+    font-weight: bold;
+    color: #1a2a3a; }
+
+h1 {
+        font-size: 150%;
+        font-weight: bold;
+        padding-top: 0.2em;
+        padding-bottom: 0.2em;
+        text-align: left;
+        border: none;
+}
+
+h2 {
+    font-size: 110%;
+}
+
+h3 {
+    font-size: 95%;
+}
+
+h4 {
+    font-size: 90%;
+    color: #CCCCCC; 
+}
+

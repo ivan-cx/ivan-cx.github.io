@@ -38,7 +38,7 @@ Main topic is physical reality of computing (that's where the title of this page
 
 <a name="handmade_hero"/>
 
-Modern computer game built in C from scratch (no libraries). Recorded on video, step-by-step. Over 600 episodes and counting. As aspiring game programmer, I find it fascinating.
+Modern computer game built in C from scratch (no libraries). Recorded on video, step-by-step. Over 600 episodes and counting. As an aspiring game programmer, I find it fascinating.
 <https://handmadehero.org>
 
 I recommend to check out other Casey's stuff, especially his upcoming C programming course.

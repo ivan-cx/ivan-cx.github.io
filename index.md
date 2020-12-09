@@ -2,7 +2,7 @@
 
 My name is Ivan Kuznetsov. I am a programmer from St. Petersburg, Russia. 
 
-I stream programming games in C: <https://www.twitch.tv/ivn_cx>
+I stream programming: <https://www.twitch.tv/ivn_cx>
 
 You can reach me with email <i@ivn.cx>
 

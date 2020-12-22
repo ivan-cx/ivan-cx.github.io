@@ -16,6 +16,7 @@ You can reach me with email <i@ivn.cx>
 2. [Mike Acton's CppCon'14 talk](#mike_acton_talk)
 3. [Handmade Hero](#handmade_hero)
 4. [The Witness](#the_witness)
+5. [Raylib](#raylib)
 
 ### Learn how to learn
 
@@ -54,3 +55,10 @@ My favourite game, by far.
 I follow it's creator, Jonathan Blow, closely, as he works on a new game and a new programming language. 
 <https://www.twitch.tv/naysayer88>
 
+### Raylib
+
+<a name="raylib"/>
+
+A simple and easy-to-use library to enjoy videogames programming <https://www.raylib.com>
+
+NOTE for ADVENTURERS: raylib is a programming library to enjoy videogames programming; no fancy interface, no visual helpers, no auto-debugging... just coding in the most pure spartan-programmers way.

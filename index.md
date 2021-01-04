@@ -13,8 +13,12 @@ You can reach me with email <i@ivn.cx>
 1. [Learn how to learn](#learn_how_to_learn)
 2. [Mike Acton's CppCon'14 talk](#mike_acton_talk)
 3. [Handmade Hero](#handmade_hero)
-4. [The Witness](#the_witness)
-5. [Raylib](#raylib)
+4. [Raylib](#raylib)
+
+## Games that I like:
+
+1. [The Witness](#the_witness)
+2. [TIS-100](#tis100)
 
 ### Learn how to learn
 
@@ -43,6 +47,14 @@ Modern computer game built in C from scratch (no libraries). Recorded on video, 
 I recommend to check out other Casey's stuff, especially his upcoming C programming course.
 <https://starcodegalaxy.com>
 
+### Raylib
+
+<a name="raylib"/>
+
+A simple and easy-to-use library to enjoy videogames programming <https://www.raylib.com>
+
+NOTE for ADVENTURERS: raylib is a programming library to enjoy videogames programming; no fancy interface, no visual helpers, no auto-debugging... just coding in the most pure spartan-programmers way.
+
 ### The Witness
 
 <a name="the_witness"/>
@@ -51,12 +63,13 @@ My favourite game, by far.
 <http://the-witness.net>
 
 I follow it's creator, Jonathan Blow, closely, as he works on a new game and a new programming language. 
-<https://www.twitch.tv/naysayer88>
+<https://www.twitch.tv/j_blow>
 
-### Raylib
+### TIS-100
 
-<a name="raylib"/>
+<a name="tis100"/>
 
-A simple and easy-to-use library to enjoy videogames programming <https://www.raylib.com>
+Deep and fun game about programming <http://www.zachtronics.com/tis-100/>
 
-NOTE for ADVENTURERS: raylib is a programming library to enjoy videogames programming; no fancy interface, no visual helpers, no auto-debugging... just coding in the most pure spartan-programmers way.
+I recommend to check out other games by Zachtronics as well.
+

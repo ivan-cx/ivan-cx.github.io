@@ -8,7 +8,7 @@ You can reach me with email <i@ivn.cx>
 
 <br/>
 
-## Some good things on the internet:
+## Some things that I like:
 
 1. [Learn how to learn](#learn_how_to_learn)
 2. [Mike Acton's CppCon'14 talk](#mike_acton_talk)

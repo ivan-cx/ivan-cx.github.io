@@ -1,6 +1,6 @@
 <br/>
 
-My name is Ivan Kuznetsov. I am a programmer from St. Petersburg, Russia. 
+My name is Ivan Kuznetsov. I am a programmer. I'm against the war 🇺🇦
 
 You can reach me with email <i@ivn.cx>
 

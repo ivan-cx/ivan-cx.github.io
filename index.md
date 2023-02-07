@@ -1,21 +1,27 @@
 <br/>
 
-My name is Ivan Kuznetsov. I am a programmer. I'm against the war 🇺🇦
+My name is Ivan Kuznetsov. I am a programmer, and a Russian citizen.
 
-You can reach me with email <i@ivn.cx>
+If you have slow computer program, probably I can help you make it faster! Let's talk <i@ivn.cx>
+
+I stand for free Russia, free Belarus and peace for indivisible Ukraine.
+
+Меня зовут Иван Кузнецов. Я программист и гражданин России.
+
+Если ваша компьютерная программа работает медленно, вероятно, я смогу помочь! Пишите <i@ivn.cx>
+
+Я за свободную Россию, за свободную Беларусь и за мир для неделимой Украины.
 
 <br/>
 
-<br/>
-
-## Some things that I like:
+## Some things that I recommend:
 
 1. [Learn how to learn](#learn_how_to_learn)
 2. [Mike Acton's CppCon'14 talk](#mike_acton_talk)
-3. [Handmade Hero](#handmade_hero)
+3. [Handmade Hero, Performance-Aware Programming](#handmade_hero)
 4. [Raylib](#raylib)
 
-## Games that I like:
+## Games:
 
 1. [The Witness](#the_witness)
 2. [TIS-100](#tis100)
@@ -44,8 +50,8 @@ Main topic is physical reality of computing (that's where the title of this page
 Modern computer game built in C from scratch (no libraries). Recorded on video, step-by-step. Over 600 episodes and counting. As an aspiring game programmer, I find it fascinating.
 <https://handmadehero.org>
 
-I recommend to check out other Casey's stuff, especially his upcoming C programming course.
-<https://starcodegalaxy.com>
+I recommend to check out other Casey's stuff, especially his "Performance-Aware Programming" course.
+<https://www.computerenhance.com/p/welcome-to-the-performance-aware>
 
 ### Raylib
 

@@ -1,15 +1,11 @@
 <br/>
 
 My name is Ivan Kuznetsov. I am a programmer, and a Russian citizen.
-
 If you have slow computer program, probably I can help you make it faster! Let's talk <i@ivn.cx>
-
 I stand for free Russia, free Belarus and peace for indivisible Ukraine.
 
 Меня зовут Иван Кузнецов. Я программист и гражданин России.
-
 Если ваша компьютерная программа работает медленно, вероятно, я смогу помочь! Пишите <i@ivn.cx>
-
 Я за свободную Россию, за свободную Беларусь и за мир для неделимой Украины.
 
 <br/>

@@ -1,12 +1,16 @@
 <br/>
 
-My name is Ivan Kuznetsov. I am a programmer, and a Russian citizen.
-If you have slow computer program, probably I can help you make it faster! Let's talk <i@ivn.cx>
+My name is Ivan Kuznetsov. I am a programmer, currently based in Germany.
 I stand for free Russia, free Belarus and peace for indivisible Ukraine.
+I am interested in Linux kernel development and Free Software in general.
+Feel free to reach out with e-mail <i@ivan.cx> or on [DeltaChat](https://i.delta.chat/#42DEC6573F743AB7D69BEDEE9C4099B8B09C5BE8&a=0wtocdmrw%40chatmail.ivan.cx&n=Ivan&i=BqY_T9RcYaNAZgMS_Ce5KvgF&s=xeFnpwseowOWixp1PwBAeeeb)
 
-Меня зовут Иван Кузнецов. Я программист и гражданин России.
-Если ваша компьютерная программа работает медленно, вероятно, я смогу помочь! Пишите <i@ivn.cx>
+
+Меня зовут Иван Кузнецов. Я программист, живущий в Германии. 
 Я за свободную Россию, за свободную Беларусь и за мир для неделимой Украины.
+Интересуюсь разработкой ядра Линукс и Свбодоного ПО вцелом.
+Пишите на почту <i@ivan.cx> или в [DeltaChat](https://i.delta.chat/#42DEC6573F743AB7D69BEDEE9C4099B8B09C5BE8&a=0wtocdmrw%40chatmail.ivan.cx&n=Ivan&i=BqY_T9RcYaNAZgMS_Ce5KvgF&s=xeFnpwseowOWixp1PwBAeeeb)
+
 
 <br/>
 
@@ -39,7 +43,7 @@ Another great resource for inspiration and advice is Dr. Richard W. Hamming’s 
 Main topic is physical reality of computing (that's where the title of this page comes from).
 <https://www.youtube.com/watch?v=rX0ItVEVjHc>
 
-### Handmade Hero
+### Handmade Hero, Performance-Aware Programming
 
 <a name="handmade_hero"/>
 

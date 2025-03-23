@@ -8,11 +8,20 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     q { quotes: "“" "”" "‘" "’"; }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="pandoc.css" />
 </head>
@@ -21,14 +30,24 @@
 <h1 class="title">ivan.cx</h1>
 </header>
 <p><br/></p>
-<p>My name is Ivan Kuznetsov. I am a programmer, and a Russian citizen. If you have slow computer program, probably I can help you make it faster! Let’s talk <a href="mailto:i@ivn.cx" class="email">i@ivn.cx</a> I stand for free Russia, free Belarus and peace for indivisible Ukraine.</p>
-<p>Меня зовут Иван Кузнецов. Я программист и гражданин России. Если ваша компьютерная программа работает медленно, вероятно, я смогу помочь! Пишите <a href="mailto:i@ivn.cx" class="email">i@ivn.cx</a> Я за свободную Россию, за свободную Беларусь и за мир для неделимой Украины.</p>
+<p>My name is Ivan Kuznetsov. I am a programmer, currently based in
+Germany. I stand for free Russia, free Belarus and peace for indivisible
+Ukraine. I am interested in Linux kernel development and Free Software
+in general. Feel free to reach out with e-mail <a
+href="mailto:i@ivan.cx" class="email">i@ivan.cx</a> or on <a
+href="https://i.delta.chat/#42DEC6573F743AB7D69BEDEE9C4099B8B09C5BE8&amp;a=0wtocdmrw%40chatmail.ivan.cx&amp;n=Ivan&amp;i=BqY_T9RcYaNAZgMS_Ce5KvgF&amp;s=xeFnpwseowOWixp1PwBAeeeb">DeltaChat</a></p>
+<p>Меня зовут Иван Кузнецов. Я программист, живущий в Германии. Я за
+свободную Россию, за свободную Беларусь и за мир для неделимой Украины.
+Интересуюсь разработкой ядра Линукс и Свбодоного ПО вцелом. Пишите на
+почту <a href="mailto:i@ivan.cx" class="email">i@ivan.cx</a> или в <a
+href="https://i.delta.chat/#42DEC6573F743AB7D69BEDEE9C4099B8B09C5BE8&amp;a=0wtocdmrw%40chatmail.ivan.cx&amp;n=Ivan&amp;i=BqY_T9RcYaNAZgMS_Ce5KvgF&amp;s=xeFnpwseowOWixp1PwBAeeeb">DeltaChat</a></p>
 <p><br/></p>
 <h2 id="some-things-that-i-recommend">Some things that I recommend:</h2>
 <ol type="1">
 <li><a href="#learn_how_to_learn">Learn how to learn</a></li>
 <li><a href="#mike_acton_talk">Mike Acton’s CppCon’14 talk</a></li>
-<li><a href="#handmade_hero">Handmade Hero, Performance-Aware Programming</a></li>
+<li><a href="#handmade_hero">Handmade Hero, Performance-Aware
+Programming</a></li>
 <li><a href="#raylib">Raylib</a></li>
 </ol>
 <h2 id="games">Games:</h2>
@@ -38,26 +57,56 @@
 </ol>
 <h3 id="learn-how-to-learn">Learn how to learn</h3>
 <p><a name="learn_how_to_learn"/></p>
-<p>Popular course by Barbara Oakley is enjoyable experience with great practical advice on learning new skills. Free weekly newsletter is helpful, even long after completing the course. <a href="https://www.coursera.org/learn/learning-how-to-learn" class="uri">https://www.coursera.org/learn/learning-how-to-learn</a></p>
-<p>Another great resource for inspiration and advice is Dr. Richard W. Hamming’s lectures, particularly <q>Intro to The Art of Doing Science and Engineering: Learning to Learn</q>. Last lecture in the course is <q>You and your research</q> - a masterpiece. <a href="https://www.youtube.com/watch?v=AD4b-52jtos&amp;list=PL2FF649D0C4407B30&amp;index=1" class="uri">https://www.youtube.com/watch?v=AD4b-52jtos&amp;list=PL2FF649D0C4407B30&amp;index=1</a></p>
+<p>Popular course by Barbara Oakley is enjoyable experience with great
+practical advice on learning new skills. Free weekly newsletter is
+helpful, even long after completing the course. <a
+href="https://www.coursera.org/learn/learning-how-to-learn"
+class="uri">https://www.coursera.org/learn/learning-how-to-learn</a></p>
+<p>Another great resource for inspiration and advice is Dr. Richard W.
+Hamming’s lectures, particularly <q>Intro to The Art of Doing Science
+and Engineering: Learning to Learn</q>. Last lecture in the course is
+<q>You and your research</q> - a masterpiece. <a
+href="https://www.youtube.com/watch?v=AD4b-52jtos&amp;list=PL2FF649D0C4407B30&amp;index=1"
+class="uri">https://www.youtube.com/watch?v=AD4b-52jtos&amp;list=PL2FF649D0C4407B30&amp;index=1</a></p>
 <h3 id="mike-actons-cppcon14-talk">Mike Acton’s CppCon’14 talk</h3>
 <p><a name="mike_acton_talk"/></p>
-<p>Main topic is physical reality of computing (that’s where the title of this page comes from). <a href="https://www.youtube.com/watch?v=rX0ItVEVjHc" class="uri">https://www.youtube.com/watch?v=rX0ItVEVjHc</a></p>
-<h3 id="handmade-hero">Handmade Hero</h3>
+<p>Main topic is physical reality of computing (that’s where the title
+of this page comes from). <a
+href="https://www.youtube.com/watch?v=rX0ItVEVjHc"
+class="uri">https://www.youtube.com/watch?v=rX0ItVEVjHc</a></p>
+<h3 id="handmade-hero-performance-aware-programming">Handmade Hero,
+Performance-Aware Programming</h3>
 <p><a name="handmade_hero"/></p>
-<p>Modern computer game built in C from scratch (no libraries). Recorded on video, step-by-step. Over 600 episodes and counting. As an aspiring game programmer, I find it fascinating. <a href="https://handmadehero.org" class="uri">https://handmadehero.org</a></p>
-<p>I recommend to check out other Casey’s stuff, especially his <q>Performance-Aware Programming</q> course. <a href="https://www.computerenhance.com/p/welcome-to-the-performance-aware" class="uri">https://www.computerenhance.com/p/welcome-to-the-performance-aware</a></p>
+<p>Modern computer game built in C from scratch (no libraries). Recorded
+on video, step-by-step. Over 600 episodes and counting. As an aspiring
+game programmer, I find it fascinating. <a
+href="https://handmadehero.org"
+class="uri">https://handmadehero.org</a></p>
+<p>I recommend to check out other Casey’s stuff, especially his
+<q>Performance-Aware Programming</q> course. <a
+href="https://www.computerenhance.com/p/welcome-to-the-performance-aware"
+class="uri">https://www.computerenhance.com/p/welcome-to-the-performance-aware</a></p>
 <h3 id="raylib">Raylib</h3>
 <p><a name="raylib"/></p>
-<p>A simple and easy-to-use library to enjoy videogames programming <a href="https://www.raylib.com" class="uri">https://www.raylib.com</a></p>
-<p>NOTE for ADVENTURERS: raylib is a programming library to enjoy videogames programming; no fancy interface, no visual helpers, no auto-debugging… just coding in the most pure spartan-programmers way.</p>
+<p>A simple and easy-to-use library to enjoy videogames programming <a
+href="https://www.raylib.com" class="uri">https://www.raylib.com</a></p>
+<p>NOTE for ADVENTURERS: raylib is a programming library to enjoy
+videogames programming; no fancy interface, no visual helpers, no
+auto-debugging… just coding in the most pure spartan-programmers
+way.</p>
 <h3 id="the-witness">The Witness</h3>
 <p><a name="the_witness"/></p>
-<p>My favourite game, by far. <a href="http://the-witness.net" class="uri">http://the-witness.net</a></p>
-<p>I follow it’s creator, Jonathan Blow, closely, as he works on a new game and a new programming language. <a href="https://www.twitch.tv/j_blow" class="uri">https://www.twitch.tv/j_blow</a></p>
+<p>My favourite game, by far. <a href="http://the-witness.net"
+class="uri">http://the-witness.net</a></p>
+<p>I follow it’s creator, Jonathan Blow, closely, as he works on a new
+game and a new programming language. <a
+href="https://www.twitch.tv/j_blow"
+class="uri">https://www.twitch.tv/j_blow</a></p>
 <h3 id="tis-100">TIS-100</h3>
 <p><a name="tis100"/></p>
-<p>Deep and fun game about programming <a href="http://www.zachtronics.com/tis-100/" class="uri">http://www.zachtronics.com/tis-100/</a></p>
+<p>Deep and fun game about programming <a
+href="http://www.zachtronics.com/tis-100/"
+class="uri">http://www.zachtronics.com/tis-100/</a></p>
 <p>I recommend to check out other games by Zachtronics as well.</p>
 </body>
 </html>

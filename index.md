@@ -18,13 +18,10 @@ Feel free to reach out with e-mail <i@ivan.cx> or on [DeltaChat](https://i.delta
 
 1. [Learn how to learn](#learn_how_to_learn)
 2. [Mike Acton's CppCon'14 talk](#mike_acton_talk)
-3. [Handmade Hero, Performance-Aware Programming](#handmade_hero)
+3. [DeltaChat](#deltachat)
 4. [Raylib](#raylib)
-
-## Games:
-
-1. [The Witness](#the_witness)
-2. [TIS-100](#tis100)
+5. [The Witness](#the_witness)
+6. [TIS-100](#tis100)
 
 ### Learn how to learn
 
@@ -40,18 +37,16 @@ Another great resource for inspiration and advice is Dr. Richard W. Hamming’s 
 
 <a name="mike_acton_talk"/>
 
-Main topic is physical reality of computing (that's where the title of this page comes from).
+Main topic is physical reality of compuing and creating software:
 <https://www.youtube.com/watch?v=rX0ItVEVjHc>
 
-### Handmade Hero, Performance-Aware Programming
+### DeltaChat
 
-<a name="handmade_hero"/>
+<a name="deltachat"/>
 
-Modern computer game built in C from scratch (no libraries). Recorded on video, step-by-step. Over 600 episodes and counting. As an aspiring game programmer, I find it fascinating.
-<https://handmadehero.org>
+Open source, end-to-end encrypted and decentralized messenger <https://delta.chat/>
+Feel free to [send me a message](https://i.delta.chat/#42DEC6573F743AB7D69BEDEE9C4099B8B09C5BE8&a=0wtocdmrw%40chatmail.ivan.cx&n=Ivan&i=BqY_T9RcYaNAZgMS_Ce5KvgF&s=xeFnpwseowOWixp1PwBAeeeb) there!
 
-I recommend to check out other Casey's stuff, especially his "Performance-Aware Programming" course.
-<https://www.computerenhance.com/p/welcome-to-the-performance-aware>
 
 ### Raylib
 

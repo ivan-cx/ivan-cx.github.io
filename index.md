@@ -3,13 +3,13 @@
 My name is Ivan Kuznetsov. I am a programmer, currently based in Germany.
 I stand for free Russia, free Belarus and peace for indivisible Ukraine.
 I am interested in Linux kernel development and Free Software in general.
-Feel free to reach out with e-mail <i@ivan.cx> or on [DeltaChat](https://i.delta.chat/#42DEC6573F743AB7D69BEDEE9C4099B8B09C5BE8&a=0wtocdmrw%40chatmail.ivan.cx&n=Ivan&i=BqY_T9RcYaNAZgMS_Ce5KvgF&s=xeFnpwseowOWixp1PwBAeeeb)
+Feel free to reach out with e-mail <i@ivan.cx> or on [DeltaChat](https://i.delta.chat/#19C784DA1D691EB6C30098168271DA137F9E9592&a=1yj3fflsh%40nine.testrun.org&n=Ivan&i=hK5L343AcIf&s=pT_frQMa1_Y)
 
 
 Меня зовут Иван Кузнецов. Я программист, живущий в Германии. 
 Я за свободную Россию, за свободную Беларусь и за мир для неделимой Украины.
 Интересуюсь разработкой ядра Линукс и Свбодоного ПО вцелом.
-Пишите на почту <i@ivan.cx> или в [DeltaChat](https://i.delta.chat/#42DEC6573F743AB7D69BEDEE9C4099B8B09C5BE8&a=0wtocdmrw%40chatmail.ivan.cx&n=Ivan&i=BqY_T9RcYaNAZgMS_Ce5KvgF&s=xeFnpwseowOWixp1PwBAeeeb)
+Пишите на почту <i@ivan.cx> или в [DeltaChat](https://i.delta.chat/#19C784DA1D691EB6C30098168271DA137F9E9592&a=1yj3fflsh%40nine.testrun.org&n=Ivan&i=hK5L343AcIf&s=pT_frQMa1_Y)
 
 
 <br/>

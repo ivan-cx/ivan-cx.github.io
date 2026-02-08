@@ -18,7 +18,6 @@ Feel free to reach out with e-mail <i@ivan.cx> or on [DeltaChat](https://i.delta
 
 1. [Learn how to learn](#learn_how_to_learn)
 2. [Mike Acton's CppCon'14 talk](#mike_acton_talk)
-3. [DeltaChat](#deltachat)
 4. [Raylib](#raylib)
 5. [The Witness](#the_witness)
 6. [TIS-100](#tis100)
@@ -39,14 +38,6 @@ Another great resource for inspiration and advice is Dr. Richard W. Hamming’s 
 
 Main topic is physical reality of compuing and creating software:
 <https://www.youtube.com/watch?v=rX0ItVEVjHc>
-
-### DeltaChat
-
-<a name="deltachat"/>
-
-Open source, end-to-end encrypted and decentralized messenger <https://delta.chat/>
-Feel free to [send me a message](https://i.delta.chat/#42DEC6573F743AB7D69BEDEE9C4099B8B09C5BE8&a=0wtocdmrw%40chatmail.ivan.cx&n=Ivan&i=BqY_T9RcYaNAZgMS_Ce5KvgF&s=xeFnpwseowOWixp1PwBAeeeb) there!
-
 
 ### Raylib
 

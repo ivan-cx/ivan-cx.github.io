@@ -51,17 +51,14 @@ NOTE for ADVENTURERS: raylib is a programming library to enjoy videogames progra
 
 <a name="the_witness"/>
 
-My favourite game, by far.
+My favourite game
 <http://the-witness.net>
-
-I follow it's creator, Jonathan Blow, closely, as he works on a new game and a new programming language. 
-<https://www.twitch.tv/j_blow>
 
 ### TIS-100
 
 <a name="tis100"/>
 
-Deep and fun game about programming <http://www.zachtronics.com/tis-100/>
+Game about programming <http://www.zachtronics.com/tis-100/>
 
 I recommend to check out other games by Zachtronics as well.
 

@@ -1,16 +1,18 @@
 <br/>
 
+::: {lang="en"}
 My name is Ivan Kuznetsov. I am a programmer, currently based in Germany.
 I stand for free Russia, free Belarus and peace for indivisible Ukraine.
 I am interested in Free Software development.
 Feel free to reach out with e-mail <i@ivan.cx>
+:::
 
-
+::: {lang="ru"}
 Меня зовут Иван Кузнецов. Я программист, живущий в Германии. 
 Я за свободную Россию, за свободную Беларусь и за мир для неделимой Украины.
-Интересуюсь разработкой свбодоного ПО.
+Интересуюсь разработкой свободного ПО.
 Пишите на почту <i@ivan.cx>
-
+:::
 
 <br/>
 
@@ -18,9 +20,9 @@ Feel free to reach out with e-mail <i@ivan.cx>
 
 1. [Learn how to learn](#learn_how_to_learn)
 2. [Mike Acton's CppCon'14 talk](#mike_acton_talk)
-4. [Raylib](#raylib)
-5. [The Witness](#the_witness)
-6. [TIS-100](#tis100)
+3. [Raylib](#raylib)
+4. [The Witness](#the_witness)
+5. [TIS-100](#tis100)
 
 ### Learn how to learn
 
@@ -36,7 +38,7 @@ Another great resource for inspiration and advice is Dr. Richard W. Hamming’s 
 
 <a name="mike_acton_talk"/>
 
-Main topic is physical reality of compuing and creating software:
+Main topic is physical reality of computing and creating software:
 <https://www.youtube.com/watch?v=rX0ItVEVjHc>
 
 ### Raylib
